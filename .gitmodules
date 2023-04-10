@@ -1,0 +1,6 @@
+[submodule "themes/doxygen-awesome-css"]
+	path = themes/doxygen-awesome-css
+	url = git@github.com:jothepro/doxygen-awesome-css.git
+[submodule "py_bindings/extern"]
+	path = py_bindings/extern
+	url = git@github.com:pybind/pybind11.git
